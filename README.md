@@ -4,21 +4,14 @@
 
 	<h2>London</h2>
 
-	<p>London is the capital city of England. It is the most populous city in the United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
-	
-		
-	<h3>Use the correct HTML tag to add a heading with the text "London".</h3>
-
-	<h2>London</h2>
-
 	<hr>
 
 	<p>London is the capital city of England. It is the most populous city in the United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
 	
 	<hr>
 	
-	<h2>Add six headings to the document with the text "Hello".</h2>
-	<h2>Start with the most important heading (the largest) and end with the least important heading (the smallest).</h2>
+	<h3>Add six headings to the document with the text "Hello".</h3>
+	<h3>Start with the most important heading (the largest) and end with the least important heading (the smallest).</h3>
 	<h1>Hello</h1>
 	<h2>Hello</h2>
 	<h3>Hello</h3>
@@ -58,7 +51,7 @@
 	<p>My Bonnie lies<br>over the ocean.</p>
 	
 	<hr>
-	<h2>Wrap this poem around HTML tags that will preserve all spaces and linebreaks when the element is displayed.</h2>
+	<h3>Wrap this poem around HTML tags that will preserve all spaces and linebreaks when the element is displayed.</h3>
 
 	<pre>
 		My Bonnie lies over the ocean.
