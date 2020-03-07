@@ -1,10 +1,3 @@
-
-<!DOCTYPE html>
-<html>
-<head>
-	<title>HTML Basics</title>
-</head>
-
 <body>
 
 	<h3>Use the correct HTML tag to add a heading with the text "London".</h3>
@@ -101,4 +94,4 @@
 	
 </body>
 
-</html>
+
