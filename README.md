@@ -1,37 +1,57 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+	<title>HTML Basics</title>
+</head>
 
-You can use the [editor on GitHub](https://github.com/Tamzida-Azad/Basic-HTML-Exercise/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<body>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+	<h3>Use the correct HTML tag to add a heading with the text "London".</h3>
 
-### Markdown
+	<h2>London</h2>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+	<p>London is the capital city of England. It is the most populous city in the United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
+	
+	<hr>
+	
+	<h3>Use the correct HTML tag to add a heading with the text "London".</h3>
 
-```markdown
-Syntax highlighted code block
+	<h2>London</h2>
 
-# Header 1
-## Header 2
-### Header 3
+	<hr>
 
-- Bulleted
-- List
+	<p>London is the capital city of England. It is the most populous city in the United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
+	
+	<hr>
+	
+	<h2>Add six headings to the document with the text "Hello".</h2>
+	<h2>Start with the most important heading (the largest) and end with the least important heading (the smallest).</h2>
+	<hr>
+	<h1>Hello</h1>
+	<h2>Hello</h2>
+	<h3>Hello</h3>
+	<h4>Hello</h4>
+	<h5>Hello</h5>
+	<h6>Hello</h6>
+	
+	<hr>
+	
+	<h3>Mark up the text with appropriate tags:</h3>
 
-1. Numbered
-2. List
+	<h4>"Universal Studios Presents" is the most important heading.</h4>
 
-**Bold** and _Italic_ and `Code` text
+	<h4>"Jurassic Park" is the next most important heading.</h4>
 
-[Link](url) and ![Image](src)
-```
+	<h4>"About" is the third most important heading.</h4>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+	<h4>The last sentence is just a paragraph. </h4>
+	<hr> 
+	<h4>Start with the most important heading (the largest) and end with the least important heading (the smallest).</h4>
+	<h1>Universal Studios Presents</h1>
+	<h2>Jurassic Park</h2>
+	<h3>About</h3>
+	<p>On the Island of Isla Nublar, a new park has been built: Jurassic Park is a theme park of cloned dinosaurs!!</p>
+	
+</body>
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Tamzida-Azad/Basic-HTML-Exercise/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</html>
